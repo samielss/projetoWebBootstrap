@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 10px
+}
+#white-cake {
+    position: relative;
+    left: 2rem;
+}
+#black-cake {
+    position: relative;
+    left: 4rem;
+}
+#blue-cake {
+    position: absolute;
+    right: 23.6rem;
+}
+main {
+    background-color: #FFF;
+}
